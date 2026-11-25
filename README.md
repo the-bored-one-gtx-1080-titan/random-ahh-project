@@ -1,2 +1,1 @@
-# ILS-Privacy-Ops
-Repository: ILS-Privacy-Ops Description: A privacy-focused Linux desktop application for security tracking, privacy assessments, and digital security management.
+# just so everyone should know is on how to USE github not just pushing your files inst release but also on MAIN FILES
